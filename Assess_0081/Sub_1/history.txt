@@ -1,0 +1,17 @@
+commit bb5247fff60c99cc6120f53fa1e3319997d5e742
+Author: Gauri Saini <gauri.saini.125@gmail.com>
+Date:   Wed Mar 6 11:23:28 2024 +0530
+
+    Modified c file
+
+commit aaed13a340fb7190811867f4009a30e0cb73cfba
+Author: Gauri Saini <gauri.saini.125@gmail.com>
+Date:   Wed Mar 6 11:22:07 2024 +0530
+
+    Modified HTML file
+
+commit 9385bc458813a8dedab49773898df6cb92593550
+Author: Gauri Saini <gauri.saini.125@gmail.com>
+Date:   Wed Mar 6 11:19:24 2024 +0530
+
+    Initial commit with three files
